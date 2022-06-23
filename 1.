@@ -3,3 +3,11 @@ a. var obj1 = { name: "Person 1", age:5 };
 b. var obj2 = { age:5, name: "Person 1" };
 
 Answer: 
+In JavaScript we primarily compare two JSON objects by converting them to their string versions. 
+
+JSON Compare has the functionality to find different with JSON APIs, JSON Files and JSON Data. You can also beautify JSON or formate JSON.
+You can also download your JSON Data as a JSON file. We provide you to Directly copy JSON Data and paste when you want. 
+You can directly edit JSON data and redo or undo changes.
+
+JSON diff tool allows to compare two JSON documents, and find the You can also directly compare two JSON files by specifying their urls in the GET JSON diff tool makes a semantic comparison,
+it compares every attribute–value pairs of objects. Would be nice if I had the choice to compare just keys and or values.
